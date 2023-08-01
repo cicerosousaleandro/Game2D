@@ -1,0 +1,137 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1690852133
+icon.svg::CompressedTexture2D::136261738506328062::1690850924::1690850967::1::::<><>::
+::res://assets/::1690852042
+::res://assets/Mini FX, Items & UI/::1690852020
+LICENSE.txt::TextFile::-1::1593868726::0::1::::<><>::
+::res://assets/Mini FX, Items & UI/Common Pick-ups/::1594132488
+Coin (16 x 16).png::CompressedTexture2D::6541344147837402385::1594132264::1690852175::1::::<><>::
+Health_Kit (16 x 16).png::CompressedTexture2D::1814360721684564772::1594132408::1690852175::1::::<><>::
+Heart_Spin (16 x 16).png::CompressedTexture2D::6943046881724051240::1594132378::1690852175::1::::<><>::
+Small_Coin (16 x 16).png::CompressedTexture2D::8136965708376424758::1594132330::1690852175::1::::<><>::
+Treasure_Chest (32 x 16).png::CompressedTexture2D::6592928291544311494::1594132452::1690852175::1::::<><>::
+Wrapped_Presents (16 x 16).png::CompressedTexture2D::381269733658398023::1594132488::1690852175::1::::<><>::
+::res://assets/Mini FX, Items & UI/Effects/::1594133308
+Bright_Sparkle (16 x 16).png::CompressedTexture2D::3634108232406353279::1594070908::1690852175::1::::<><>::
+Cloud_Poof (16 x 16).png::CompressedTexture2D::8570297615084803031::1594070640::1690852175::1::::<><>::
+Dust (16 x 16).png::CompressedTexture2D::6382770361254885168::1594070508::1690852175::1::::<><>::
+Explosion_Poof (16 x 16).png::CompressedTexture2D::7417935144735176282::1594070736::1690852175::1::::<><>::
+Yellow_Sparkle (16 x 16).png::CompressedTexture2D::6042612679916731806::1594070970::1690852175::1::::<><>::
+::res://assets/Mini FX, Items & UI/Food Items/::1594072044
+Bottled_Drinks (16 x 16).png::CompressedTexture2D::6507244814284913034::1594071892::1690852175::1::::<><>::
+Burger_&_Fries (16 x 16).png::CompressedTexture2D::7507964409156187938::1594072008::1690852175::1::::<><>::
+Cake_Slices (16 x 16).png::CompressedTexture2D::7552303145363230921::1594071962::1690852174::1::::<><>::
+Chocolate_Bars (16 x 16).png::CompressedTexture2D::7987921708332607245::1594071606::1690852174::1::::<><>::
+Fruits (16 x 16).png::CompressedTexture2D::9095017121016604438::1594071574::1690852174::1::::<><>::
+Grilled_Panini (16 x 16).png::CompressedTexture2D::6816830074217859466::1594072032::1690852174::1::::<><>::
+Ice_Cream_Cones (16 x 16).png::CompressedTexture2D::9142826671220272505::1594071764::1690852174::1::::<><>::
+Milk_Cartons (16 x 16).png::CompressedTexture2D::8263932941623388696::1594071870::1690852174::1::::<><>::
+Pancake_Stack (16 x 16).png::CompressedTexture2D::1880944936632675363::1594072044::1690852174::1::::<><>::
+Salad_Bowl (16 x 16).png::CompressedTexture2D::2018605298166208473::1594071916::1690852174::1::::<><>::
+Sushi_Variety (16 x 16).png::CompressedTexture2D::6812409542809994686::1594071840::1690852174::1::::<><>::
+Wrapped_Candies (16 x 16).png::CompressedTexture2D::4125403606094171000::1594071806::1690852174::1::::<><>::
+::res://assets/Mini FX, Items & UI/Mini UI/::1594133812
+Health_Indicator_Black_Outline (8 x 8).png::CompressedTexture2D::8233045087587596891::1594133686::1690852174::1::::<><>::
+Health_Indicator_White_Outline (8 x 8).png::CompressedTexture2D::8700650913849437211::1594133712::1690852174::1::::<><>::
+Mouse_Icons_Outlined (16 x 16).png::CompressedTexture2D::7459128519058360233::1594133770::1690852174::1::::<><>::
+Mouse_Icons_Outlined_Drop-shadowed (16 x 16).png::CompressedTexture2D::5469472164424510508::1594133812::1690852175::1::::<><>::
+Speech_Emotes (16 x 16).png::CompressedTexture2D::7006246165917674620::1594071242::1690852175::1::::<><>::
+Timer_Coin_Numbers_Drop-shadowed (8 x 8).png::CompressedTexture2D::980717666402393609::1594133632::1690852175::1::::<><>::
+Timer_Coin_Numbers_Outlined (8 x 8).png::CompressedTexture2D::1020960369019622430::1594133594::1690852175::1::::<><>::
+::res://assets/Seasonal Tilesets/::1690852029
+LICENSE.txt::TextFile::-1::1594744344::0::1::::<><>::
+::res://assets/Seasonal Tilesets/1 - Grassland/::1594737126
+Extra_plants (16 x 16).png::CompressedTexture2D::7372088731401758641::1594737126::1690852175::1::::<><>::
+Grassland_entities (16 x 16).png::CompressedTexture2D::2573899498776278054::1594733800::1690852175::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::3782810038780374203::1594733362::1690852175::1::::<><>::
+::res://assets/Seasonal Tilesets/1 - Grassland/Background parts/::1594665132
+1 - Foreground_scenery.png::CompressedTexture2D::3017425003292202835::1594664942::1690852175::1::::<><>::
+2 - Hills.png::CompressedTexture2D::5727519247043678966::1594664932::1690852175::1::::<><>::
+3 - Cloud_cover_1.png::CompressedTexture2D::6758684009656063480::1594664922::1690852175::1::::<><>::
+4 - Cloud_cover_2.png::CompressedTexture2D::3086281925247533524::1594664916::1690852175::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::4130558240584633463::1594664886::1690852175::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::5808656857993398637::1594664978::1690852175::1::::<><>::
+::res://assets/Seasonal Tilesets/2 - Autumn Forest/::1594734662
+Autumn_entities (16 x 16).png::CompressedTexture2D::1483870342752003432::1594734662::1690852175::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::8554318653430215767::1594734254::1690852175::1::::<><>::
+::res://assets/Seasonal Tilesets/2 - Autumn Forest/Background parts/::1594667732
+1 - Leaf_top.png::CompressedTexture2D::5184294675789866856::1594667582::1690852175::1::::<><>::
+2 - Trees.png::CompressedTexture2D::8127229968841444137::1594667598::1690852175::1::::<><>::
+3 - Bottom_leaf_piles.png::CompressedTexture2D::2167524986355524577::1594667618::1690852175::1::::<><>::
+4 - Tree_row_BG_1.png::CompressedTexture2D::703790922751895833::1594667646::1690852175::1::::<><>::
+5 - Tree_row_BG_2.png::CompressedTexture2D::5663979016983961231::1594667656::1690852175::1::::<><>::
+6 - Distant_trees.png::CompressedTexture2D::4240936932204301751::1594667680::1690852175::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::7996085613522516143::1594667474::1690852175::1::::<><>::
+::res://assets/Seasonal Tilesets/3 - Tropics/::1594735162
+Terrain (16 x 16).png::CompressedTexture2D::3316457477897551742::1594734892::1690852174::1::::<><>::
+Tropics_entities (16 x 16).png::CompressedTexture2D::53997788449507629::1594736688::1690852174::1::::<><>::
+::res://assets/Seasonal Tilesets/3 - Tropics/Background parts/::1594669944
+1 - Waters_version_1.png::CompressedTexture2D::2511107342555253205::1594669880::1690852175::1::::<><>::
+2 - Waters_version_2.png::CompressedTexture2D::6351940260813698351::1594669900::1690852175::1::::<><>::
+3 - Floating_clouds.png::CompressedTexture2D::1326220392535053704::1594669920::1690852175::1::::<><>::
+4 - Background_clouds.png::CompressedTexture2D::3823635290752892072::1594669932::1690852175::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::7081630880033122075::1594669944::1690852175::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::5817562816068328809::1594669632::1690852174::1::::<><>::
+::res://assets/Seasonal Tilesets/4 - Winter World/::1594735970
+Terrain (16 x 16).png::CompressedTexture2D::1833491955815513130::1594735610::1690852173::1::::<><>::
+Winter_entities (16 x 16).png::CompressedTexture2D::5269619637033557757::1594735970::1690852173::1::::<><>::
+::res://assets/Seasonal Tilesets/4 - Winter World/Background parts/::1594670910
+1 - Snowy_foreground_area.png::CompressedTexture2D::8751043271409756514::1594670870::1690852174::1::::<><>::
+2 - Smaller_mountains.png::CompressedTexture2D::2344173712585061246::1594670896::1690852174::1::::<><>::
+3 - Big_mountain_BG.png::CompressedTexture2D::5730529321177908938::1594670910::1690852174::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::6259947998949212166::1594670818::1690852173::1::::<><>::
+::res://assets/Seasonal Tilesets/5 - Misc. universal tiles/::1594832036
+Blocks (16 x 16).png::CompressedTexture2D::1389550310006700725::1594736310::1690852173::1::::<><>::
+Bubbling_Oil_frames (16 x 32).png::CompressedTexture2D::5133945407908363621::1594736532::1690852173::1::::<><>::
+Flowers (16 x 16).png::CompressedTexture2D::2537989757330000914::1594736990::1690852173::1::::<><>::
+House (112 x 96).png::CompressedTexture2D::1220944929588280302::1594736944::1690852173::1::::<><>::
+Lava_frames (16 x 32).png::CompressedTexture2D::7005444481086502729::1594736456::1690852173::1::::<><>::
+Metal_Wire_fence (16 x 16).png::CompressedTexture2D::3259705254575426059::1594737218::1690852173::1::::<><>::
+Rock_shape (16 x 16).png::CompressedTexture2D::5356215711541712387::1594826148::1690852173::1::::<><>::
+Snack_machine_Bench_Trash_bin (16 x 16).png::CompressedTexture2D::2624698589638454764::1594737290::1690852173::1::::<><>::
+Water_frames (16 x 32).png::CompressedTexture2D::1978437613256799124::1594736418::1690852173::1::::<><>::
+::res://assets/Sprite Pack 2/::1690852038
+LICENSE.txt::TextFile::-1::1593868726::0::1::::<><>::
+::res://assets/Sprite Pack 2/1 - Onion Lad/::1592406286
+Hurt (16 x 16).png::CompressedTexture2D::296811099039520772::1592406048::1690852173::1::::<><>::
+Idle (16 x 16).png::CompressedTexture2D::3481980752002161256::1592405852::1690852173::1::::<><>::
+Inner_Fists (16 x 16).png::CompressedTexture2D::4980866164764614177::1592406286::1690852173::1::::<><>::
+Outer_Fists (16 x 16).png::CompressedTexture2D::7468864583195660945::1592406230::1690852173::1::::<><>::
+Run_&_Jump (16 x 16).png::CompressedTexture2D::2718248633400796147::1592405984::1690852173::1::::<><>::
+Standing_&_Jump_Punching (16 x 16).png::CompressedTexture2D::4071955176032228303::1592406132::1690852173::1::::<><>::
+::res://assets/Sprite Pack 2/2 - Mr. Mochi/::1592406882
+Hurt (32 x 32).png::CompressedTexture2D::6838549871036182813::1592406798::1690852173::1::::<><>::
+Idle (32 x 32).png::CompressedTexture2D::8710519991588344463::1592406664::1690852173::1::::<><>::
+Jumping (32 x 32).png::CompressedTexture2D::5129003150356309815::1592406882::1690852174::1::::<><>::
+Running (32 x 32).png::CompressedTexture2D::2077681954177058303::1592406746::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/3 - Octi/::1592407058
+Hurt (16 x 16).png::CompressedTexture2D::2553530504670029719::1592407058::1690852174::1::::<><>::
+Idle_&_Movement (16 x 16).png::CompressedTexture2D::1350318856705200803::1592407014::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/4 - Robo Pumpkin/::1592407290
+Hurt (16 x 16).png::CompressedTexture2D::574208318171878500::1592407290::1690852174::1::::<><>::
+Standing (16 x 16).png::CompressedTexture2D::6852494553284098507::1592407148::1690852174::1::::<><>::
+Walking (16 x 16).png::CompressedTexture2D::8914198699958632880::1592407216::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/5 - Daikon/::1592407504
+Hopping (16 x 32).png::CompressedTexture2D::36160825645657502::1592407418::1690852174::1::::<><>::
+Hurt (16 x 32).png::CompressedTexture2D::6927904304615290496::1592407504::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/6 - Robo Totem/::1592408124
+Armored_Standing (16 x 32).png::CompressedTexture2D::8836234273331091629::1592407654::1690852174::1::::<><>::
+Armored_Walking (16 x 32).png::CompressedTexture2D::8186903495253424504::1592407772::1690852174::1::::<><>::
+Hurt (16 x 16).png::CompressedTexture2D::2683159437418151559::1592408124::1690852174::1::::<><>::
+Walking (16 x 16).png::CompressedTexture2D::5962879518062347436::1592408076::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/7 - Rocket Cherry/::1592408682
+Flying (16 x 32).png::CompressedTexture2D::6056577267513315219::1592408374::1690852174::1::::<><>::
+Hopping (16 x 32).png::CompressedTexture2D::5622766760816246379::1592408548::1690852174::1::::<><>::
+Hurt (16 x 32).png::CompressedTexture2D::5428950752724836947::1592408614::1690852174::1::::<><>::
+Hurt_Falling (16 x 32).png::CompressedTexture2D::4106456027938867413::1592408434::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/8 - Comrade Cheese Puff/::1592409246
+Dropped_Bomb (8 x 8).png::CompressedTexture2D::1245058284483362986::1592409246::1690852174::1::::<><>::
+Hurt (16 x 16).png::CompressedTexture2D::5103563583081426958::1592409104::1690852174::1::::<><>::
+Missile (16 x 8).png::CompressedTexture2D::4386510301795088501::1592409184::1690852174::1::::<><>::
+Running_Away (16 x 16).png::CompressedTexture2D::188338542554884559::1592409018::1690852174::1::::<><>::
+Tank_Movement (32 x 32).png::CompressedTexture2D::6892331000715540702::1592408916::1690852174::1::::<><>::
+::res://assets/Sprite Pack 2/9 - Snip Snap Crab/::1592409916
+Claw_Animations (16 x 16).png::CompressedTexture2D::6842593295582997715::1592409856::1690852174::1::::<><>::
+Hurt (32 x 32).png::CompressedTexture2D::2095847926149876211::1592409916::1690852174::1::::<><>::
+Movement_(Flip_image_back_and_forth) (32 x 32).png::CompressedTexture2D::731232868444535258::1592409578::1690852174::1::::<><>::
+Reaching_to_Pinch (32 x 32).png::CompressedTexture2D::719294588152853115::1592409764::1690852174::1::::<><>::
